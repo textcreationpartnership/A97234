@@ -1,0 +1,161 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The messiah found: being a brief and plain declaration where he is to be found, to whom the gatherings of the people shall be, and of whom Moses in the law and prophets did write. Also, a warning to flie from the idol-shepherds. / Written for the use of all that love the appearance of our Lord Jesus Christ, by R.W.</title>
+            <author>R. W.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1656</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 18 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A97234</idno>
+            <idno type="STC">Wing W99</idno>
+            <idno type="STC">Thomason E897_2*</idno>
+            <idno type="EEBO-CITATION">99865804</idno>
+            <idno type="PROQUEST">99865804</idno>
+            <idno type="VID">168432</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A97234)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 168432)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 135:E897[2*])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The messiah found: being a brief and plain declaration where he is to be found, to whom the gatherings of the people shall be, and of whom Moses in the law and prophets did write. Also, a warning to flie from the idol-shepherds. / Written for the use of all that love the appearance of our Lord Jesus Christ, by R.W.</title>
+                  <author>R. W.</author>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by J.C. for Giles Calvert, at the Black-spreade-Eagle at the west end of Pauls.,</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>1656.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>"A warning to all people to flie from their idol-shepherds" printed on page 6, with caption title; signed: R.W.</note>
+                  <note>Annotation on Thomason copy: "Dec: 20".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Jesus Christ --  Devotional literature --  Early works to 1800.</term>
+               <term>Idolatry --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-01</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-01</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-04</date>
+            <label>Ali Jakobson</label>Sampled and proofread</change>
+         <change>
+            <date>2011-04</date>
+            <label>Ali Jakobson</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:168432:1" rendition="simple:additions"/>
+            <p>
+               <hi>The MESSIAH found:</hi> Being A brief and plain DECLARATION Where he is to be found, To whom The gatherings of the people ſhall be, And of whom <hi>Moſes</hi> in the Law &amp; Prophets did write.</p>
+            <p>Alſo; A WARNING To flie from The IDOL-SHEPHERDS.</p>
+            <p>Written for the uſe of all that love the appearance of our LORD JESUS CHRIST, BY <hi>R. W.</hi>
+            </p>
+            <q>
+               <bibl>Iſa. 11. 12.</bibl> And he ſhall ſet up an enſign for the nations, and ſhall aſſemble the out-caſt of Iſrael, and gather together the diſperſed of Judah from the four corners of the earth.</q>
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>J. C.</hi> for <hi>Giles Calvert,</hi> at the Black-ſpread Eagle at the Weſt-end of <hi>Pauls.</hi> 1656.</p>
+         </div>
+      </front>
+      <body>
+         <div type="treatise">
+            <pb facs="tcp:168432:2"/>
+            <pb n="1" facs="tcp:168432:2"/>
+            <head>The Banner of God's Love diſplayed, and the Myſtery of Chriſt unvail'd, acording as 'tis noted in the Scriptures of Truth.</head>
+            <p>THat there is a God, and that he is good, may be known to all: that Chriſt is come in the Fleſh, and crucified ſixteen hundred yeers ſince at <hi>Jeruſalem,</hi> is believed by ſome of all: but that Chriſt was and is in the World, is believed but by a few of all; even the Remnant of <hi>Jacob,</hi> who are in the midſt of many people, as a dew from the Lord, as the ſhowres upon graſs, <hi>Mic.</hi> 5. 7, 8. And theſe are the Church of the living God, which is in God, the pillar and ground of truth, 1 <hi>Theſ. 1. 1. 1 Tim</hi> 3. 15. That I may be uſeful in the hand of the Lord, to thoſe that may read my lines, I ſhall, as I have laid down, proceed: And that there is a God, the viſible things make it appear, to wit, the Heavens, and the Earth, and the Sea, and the things that are therein; as it is written, <hi>Pſal. 19 The heavens de<g ref="char:EOLhyphen"/>clare the glory of God, and the firmament ſheweth his handy-work.</hi> So that the eternal power and Godhead, which is inviſible, may be cleery ſeen, being underſtood by the things that are made, <hi>Rom.</hi> 1. 20. Now where theſe things are made, there muſt be a Maker, or elſe the things made, makes it ſelf: now if any thing could make it ſelf, man might; he having all things put into his hand: for every kinde of Beaſts, and of Birds, and of Serpents, and things in the Sea, is tamed, and hath been tamed of Man<g ref="char:EOLhyphen"/>kinde, <hi>Jam.</hi> 3. 7. Yet man is ſo unable to make himſelf, that he cannot add a cubit to his ſtature: So that I conclude, as it is written, He that made all things, is God, <hi>Gen. 1. 1. Heb.</hi> 3. 4. And that the God that made all things, is good, will appear, in that he doth good, by ſending Rain and fruitful Seaſons, filling our hearts with food and gladneſs: for, <hi>the Lord is good to all, and his tender mercy is over all his works,</hi> Pſal 145. 9. Now the Lord's goodneſs and tender mercies is the ground of all mens happineſs, as will appear if we conſider the time of his love: ſecondly, if we conſider the gift of his love, which was his Son: as for the time, it was when <hi>Adam</hi> had deſtroyed himſelf, and we in him; for in <hi>Adam</hi> all died, 1 <hi>Cor.</hi> 15. 22. and ſo all men and women conſidered in that nature, are children of wrath,
+<pb n="2" facs="tcp:168432:3"/>
+whether Jew or Gentiles, <hi>Eph.</hi> 2. 3. and are under the power of the Prince of darkneſs which rules in the children of diſo<g ref="char:EOLhyphen"/>bedience: for through the ſubtilty of the Serpent, which is Satan, man was and is deceived: not that he compels them, for that he cannot do; but he preſenting objects, inticing and per<g ref="char:EOLhyphen"/>ſwading by his lying, we conſenting, come to ſinning, <hi>Gen.</hi> 3. 5. and <hi>the wages of ſin is death,</hi> Rom. 6. 23. and the devil had power over death, <hi>Heb.</hi> 2. 14. and in theſe ways, and by theſe means, man comes to be in the hands of Satan, a captive, and alienated from God, and without Chriſt in the world; and <hi>the whole world lieth in wickedneſs, 1 Joh.</hi> 5. 19. and are enemies to God and to their own ſouls, wallowing in their own blood, <hi>Ezek.</hi> 16. 6. and the Lord beholding of it in that ſtate, pitied it in his love, not as men do uſe to pity, in words without deeds; but doth deviſe means, without reſpect of perſons, to bring back his baniſhed, 2 <hi>Sam</hi> 14. 14. to wit, to give his Son, his only Son, the Son of his boſom, in whom his Soul delights, for the world, becauſe he loved it as his work; his tender mercy being overall his works, and therefore ſent his Son <hi>into the world, not to condemn the world, but that the world through him might be ſaved,</hi> Joh. 3. 17. and that they might, he lighteth every one that cometh into the world; for <hi>in him was life, and the life was the light of men,</hi> Joh. 1. 4. <hi>and he was in the world, and the world knew him not,</hi> though all things was made by him; for the Father by the Son made the worlds, <hi>Heb.</hi> 1. 2. and this is he that was promiſed to <hi>Adam</hi> that partook of the feed of the woman, which came in the fulneſs of time; for<g ref="char:EOLhyphen"/>aſmuch as the children are partakers of fleſh &amp; blood, he himſelf partook of the ſame, <hi>Heb.</hi> 2. 14. and was put to death in the fleſh but quickned by the Spirit, which was the ſubſtance of all the types, ſhadows, and figures; and ſo was the end of the Law, that being the ſhadows of good things to come: but the body is of Chriſt, <hi>Col.</hi> 2. 17. as it is written, <hi>a body haſt thou prepared me,</hi> Heb. 10. 5. and this body was the ſacrifice that was offered up through the eternal Spirit, once for all, to put away ſin, he being made ſin for us, which knew no ſin, bore our ſins in his own body on the Tree, 1 <hi>Pet.</hi> 2. 24. and ſo put an end to ſin, he being put to death in the fleſh for us, that through death he might deſtroy him that had the power of death, that is, the de<g ref="char:EOLhyphen"/>vil; and deliver them, who through fear of death were all their life time ſubject to bondage, <hi>Heb.</hi> 2. 15. for though he were cru<g ref="char:EOLhyphen"/>cified
+<pb n="3" facs="tcp:168432:3"/>
+               <hi>through weakneſs, yet he liveth by the power of God,</hi> 2 Cor. 13. 4. who quickned him by his Spirit, and raiſed his Body, which is aſcended; and whom <hi>the heavens muſt receive until the reſtitution of all things,</hi> Act. 3. 21. and hath all power given him: for <hi>to the Son is all power given,</hi> Mat. 28. 18. and he is the light of the world, and lighteth every one that cometh into the world. Now that which is lighted in man, is the ſpirit of man; for that is the can<g ref="char:EOLhyphen"/>dle of the Lord, and he lighteth it, and ſearcheth the deep things of his belly, <hi>Prov.</hi> 20. 27. and makes manifeſt the hidden things of diſhoneſty unto man, that ſo a man may ſee his fallen ſtate by nature, and ſo come to the light, to be judged by the light, that ſo the body of death, which is ſin, might be deſtroyed in us, by him; for this purpoſe the Son of God was manifeſted, <hi>that he might deſtroy the works of the devil,</hi> 1 Joh. 3. 8. and ſo redeem his people from their ſins: which cannot be, except we believe in the light, which light is in us everlaſting righteouſneſs, <hi>Dan.</hi> 9. 24. and all that by him do believe, are juſtified from all things, which they could not be by the law of <hi>Moſes, Act.</hi> 13. 39. now how can we believe by him, if he be not firſt in us? who ſhall fetch him down for us? <hi>but what ſaith the Scriptures? The word is nigh unto thee, in thy mouth, and in thine heart:</hi> and this <hi>is the word of ſaith we preach,</hi> Deut. 30. 14. Rom. 10. 8. which hath been hid from ages and generations, but now is made manifeſt to his Saints, <hi>Col</hi> 1. 26. And this I witneſs, who have my ſelf run from mountain to hill, ſeeking reſt for my poor ſoul, from one form to another, but found no reſt in thoſe obſervations; for the kingdom of God was within me, <hi>Luk.</hi> 17. 21. and I knew not, although it did manifeſt ſin to me, which was the trouble of my ſoul. And as <hi>Adam</hi> was afraid, having ſinned, ſo was I: and as they ſowed leaves together to hide their nakedneſs, ſo would I with a leaf<g ref="char:EOLhyphen"/>like profeſſion, hide my nakedneſs: and as they, when they heard the voice of the Lord God, hid themſelves amongſt the trees; ſo I ſeparated my ſelf from the world and their worſhip, to hide my ſelf amongſt the trees in a gathered way; but had no reſt for the feet of my ſoul, but was like the Dove which was out of the Ark, whilſt the waters was upon the earth, <hi>Gen.</hi> 8. 9. until I returned to the light in me, which did judge me; which I would have fled from, I being ignorant of the way of God in his judge<g ref="char:EOLhyphen"/>ments, by which he betroths his to himſelf, as it is written, <hi>I will betroth thee unto me in righteouſneſs and in judgement,</hi> Hoſ. 2. 19.
+<pb n="4" facs="tcp:168432:4"/>
+under which judgement, I received a ſentence of death upon the body of ſin, which was in me; that I might not truſt in my ſelf, but in the living <hi>God which raiſeth the dead,</hi> 2 Cor 1. 9. thus being put to death in the fleſh, was quickned by the Spirit, and joyned to the Lord the Bridegroom of my ſoul, which is in me the hope of glory, for <hi>the glory is to be revealed in us,</hi> Rom 8. 18. and all that are partakers of this glory have waited upon the Lord in the way of his judgements, <hi>Iſa.</hi> 26. 8. and ſo have witneſ<g ref="char:EOLhyphen"/>ſed redemption from their ſins; for <hi>Sion ſhall be redeemed with judgement, and her converts with righteouſneſs,</hi> Iſa. 1. 27. for <hi>judge<g ref="char:EOLhyphen"/>ment muſt begin at the houſe of God,</hi> 1 Pet. 4. 17. and <hi>for this cauſe was the Goſpel preached alſo to them that are dead, that they might be judged according to men in the fleſh, but live according to God in the ſpirit,</hi> 1 Pet. 4. 6. and ſo <hi>dwell with everlaſting burnings,</hi> as it is written, <hi>Iſa</hi> 33. 14, 15, 16. being <hi>purged by the ſpirit of judgement and the ſpirit of burning,</hi> Iſa. 4. 4. and ſo are the habitations of God through the Spirit, <hi>Eph.</hi> 2. 22. his habitation being righ<g ref="char:EOLhyphen"/>teouſneſs and judgement, <hi>Pſal.</hi> 97. 2. And thus man becomes the temple of the living God, as God hath ſaid, <hi>I will dwell in them, and walk in them; and I will be their God, and they ſhall be my people,</hi> Levit. 26. 12. 2 Cor. 6. 16. <hi>A choſen generation, a royal prieſthood, an holy nation, a peculiar people, that ſhould ſhew forth the praiſes of him who hath called you out of darkneſs into his mar<g ref="char:EOLhyphen"/>vellous light,</hi> 1 Pet. 2. 9. and in whoſe hearts is the Law and Covenant of God, as it is written, <hi>Jer. 31. 33. Heb. 10. 16. I will put my law in their hearts, and in their mindes will I write them:</hi> not in a book without them, yet not contrary to the Scri<g ref="char:EOLhyphen"/>ptures of Truth; for they are opened to them, but ſealed to all the world, though they may talke of them, and trade with them amongſt the ſimple ones; by whom the holy City hath been trodden under foot, this forty and two months, <hi>Rev.</hi> 11. 2. even all the time of the reign of the man of ſin, which is now to be deſtroyed, the Lord being raiſed, <hi>Zech.</hi> 2. 13. in his witneſſes, will reveal the man of ſin in man, the ſon of perdition, who oppoſeth and exalteth himſelf above all that is called God, or worſhipped; ſo that he as God, ſitteth in the Temple of God, ſhewing himſelf that he is God, 2 <hi>Theſſ.</hi> 2. 4. now the temple of God is your bodies, 1 <hi>Cor.</hi> 3. 16. 17. 1 <hi>Cor.</hi> 6. 19. and the man of ſin is a myſtery of iniquity in the body, which ſhall be revealed by the Lord, and conſumed with
+<pb n="5" facs="tcp:168432:4"/>
+the ſpirit of his mouth, and ſhall be deſtroyed with the brightneſs of his coming, 2 <hi>Theſ. 2. 8. For behold, the day cometh that ſhall burn as an oven; and all the proud, yea, and all that do wickedly ſhall be ſtubble; and the day that cometh ſhall burn them up, ſaith the Lord of hoſts, that is ſhall leave them neither root nor branch: but unto you that fear my name, ſhall the ſun of righte<g ref="char:EOLhyphen"/>ouſneſs ariſe with healing in his wings,</hi> Mal. 4. 1, 2. Iſa. 40. 5. not deſcend firſt without you; for that will not be till all things be reſtored, <hi>Act.</hi> 3. 21. ariſe within you, to heal the wounded conſcience in you, and to deliver the poor captivated oppreſſed ſpirit in you, which is thy companion and the wife of thy covenant, <hi>Mal.</hi> 2. 14. Now thy covenant is the light, as it is written, <hi>I the Lord have called thee in righteouſneſs, and will hold thy hand, and will keep thee, and give thee for a covenant of the people, for a light of the Gentiles,</hi> Iſa. 42. 6. <hi>that thou maiſt be my ſalvation to the ends of th<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> ea<gap reason="illegible" resp="#APEX" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>h,</hi> Iſa. 49. 9. and this is the ſalvation of God by covenant, which is <gap reason="illegible" resp="#APEX" extent="4 letters">
+                  <desc>••••</desc>
+               </gap>ly given unto men, the light which doth manifeſt ſin in man: and this is the Lord from Heaven, the ſecond man; <hi>For, as by the offence of one, judgement came upon all men to condemnation; ſo by the righteouſneſs of one, the free gift came upon all men, unto juſtification of life,</hi> Rom. 5. 18. and they that receive him in the love thereof, and obeying him, are juſtified from all things; and they that receive him not, their deſtruction is of themſelves. Now the life of the body is the ſpirit, <hi>Jam.</hi> 2. 26. upon which the free gift comes, and lights it: which gift is the Son of God, given of God to the world, <hi>Joh. 3. 16. And he was in the world, and the world was made by him, and the world knew him not,</hi> John 1. 10. Heb. 11. 3. <hi>But to as many as received him, to them he gave power to be<g ref="char:EOLhyphen"/>come the Sons of God, even to them that believe on his name,</hi> John 1. 12. which is light which lighteth every man that cometh into the world, and is the way to the Father, and no man knoweth the Father but the Son, and he to whom he will reveal him; and this Son was revealed in <hi>Paul,</hi> Gal. 1. 16. and the Son which was revealed in <hi>Paul,</hi> he preached in the world, which the world knew not, but was to them a myſtery, until he was revealed in the miniſtery of the Goſpel, which was Chriſt in them the hope of glory: <hi>whom we preach, warning every man, and teaching every man in all wiſdom, that we may preſent every man perfect in Chriſt Jeſus,</hi> Col. 1. 27, 28. And thus the holy men of old preached him to be in their hearts, and in their mouths the word of faith, <hi>Deut. 30. 14. Rom.</hi> 10. 8. and all that believed ſavingly, believed in him in them, by which they are freed from all things, which they could not be by the Law of <hi>Moſes, Act. 13. 39. Iſa.</hi> 50. 8. And of this am I a witneſs, in my meaſure, amongſt the many witneſſes, That this Faith purifieth the heart; and juſtifieth the ſpirit by which we have peace with God, through our Lord Jeſus Chriſt, which is in us the hope of glory: to whom be glory for ever, <hi>Amen.</hi>
+            </p>
+            <p>Therefore <hi>examine your ſelves, whether you be in the faith; prove your own ſelves: know you not your own ſelves, how that Chriſt Jeſus is in you, except you be reprobates?</hi> 2 Cor. 13. 5. <hi>Now if Chriſt be in you, the body is dead, becauſe of ſin; but the ſpirit is alive, becauſe of rithteouſneſs.</hi>
+            </p>
+         </div>
+         <div type="treatise">
+            <pb n="6" facs="tcp:168432:5"/>
+            <head>A Warning to all People to flie from their Idol-ſhepherds.</head>
+            <p>WO from the Lord to the Idol-ſhepherds: they are<note place="margin">Iſa. 56. 11. Jer. 5. 13. Jer. 23. 30. 2 Pet. 2. 3. Ezek. 14. 4. 2 Theſ. 3. 6. 2 Cor. 6. 16, and 17. Iſa. 40. 11. Eze. 34. 33. Joh. 10. 11. Joh. 1. 4, 9. Luk. 17. 21. Act. 26. 18. Eph. 5. 13. 1 Cor. 12. 7. Heb. 1. 2. 1 Pet. 2. 25. Heb. 3. 15. 1 Pet. 1. 21. Prov: 1. 23. Mat. 28. 18. Joh. 1. 12. Iſa. 49. 6. Iſa. 40. 11. Joh. 10. 16. Joh. 10. 11. Rev. 18. 4. Zech. 11. 17.</note> for their gain, &amp; teach for hire; yet they ſay, Hear the word of the Lord, when they had not word from the Lord; but ſtole it from their neighbors to make a merchandiſe thereof: they are Idol-ſhepherds, and their Idols are in their hearts: depart from them, and turn to the true Shepherd, the Son of God, which lights you all; a light which doth manifeſt ſin unto you all, and is but one in all, and all have the mani<g ref="char:EOLhyphen"/>feſtation in meaſure of the ſame Son by which God made the worlds: and this is the true Shepherd and Biſhop of your ſouls, therefore hear his voice, which is a ſoft moving in you, which reproves you for ſin; therefore believe it and obey it: It's your Him you are to receive, with whom is power; and all that re<g ref="char:EOLhyphen"/>ceive him, to them he gives power to become the Sons of God, even to them that believe in his name. The light which will gather you, you obeying it, into the true ſheepfold, which is but one, and to it but one Shepherd, a good Shepherd, which lain down his life in the fleſh for his ſheep: but the hireling flieth, and leaveth the ſheep: therefore flie from the hireling all of you that love your ſouls, that you be not partakers with him in your ſins, and ſo of his plagues; for the ſword of the Lord ſhall be upon his arm, and upon his right-eye, his arm ſhall be clean dried up, and his right-eye ſhall be uttterly darkned.</p>
+            <closer>
+               <signed>Thus have you had Warning by R. W.</signed>
+            </closer>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
